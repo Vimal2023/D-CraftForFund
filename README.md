@@ -6,3 +6,5 @@ For UI Look :: https://craftforfund.vercel.app/
 
 ## Live Here -- 
 Not Found any free hosting app Yet {jo mila bhi uspe bhi non-understandable error backend ke liye mil raha hai} 🕵️‍♂️
+
+Although it is the project which me including my team-mates @Abhishek2000Singh, @RajShaw2002 and SachinKumarDhuriya made for DIVERSION 2𝒌24.
